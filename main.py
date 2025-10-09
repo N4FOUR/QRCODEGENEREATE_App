@@ -69,3 +69,5 @@ if st.button('Create QR Code') and data:
         file_name=f"{filename}.png",
         mime="image/png"
     )
+
+st.caption('Developed by ณพพร คุณศึกษา nopphon052k@gmail.com')
